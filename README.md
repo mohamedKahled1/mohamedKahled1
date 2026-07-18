@@ -102,54 +102,55 @@ I enjoy solving real-world business problems using data analysis and visualizati
 
 ---
 <!-- ========================================================= -->
-<!--              📊 PHASE 4 : DATA ANALYTICS PROFILE          -->
+<!--              📊 PHASE 4 : ANALYTICS SHOWCASE             -->
 <!-- ========================================================= -->
 
 <h2 align="center">
-📊 Data Analytics Profile
+📊 Analytics Showcase
 </h2>
+
+<p align="center">
+  Exploring data, building dashboards, and transforming insights into decisions
+</p>
 
 <div align="center">
 
-<table>
+<img width="90%" src="https://github.com/mohamedKahled1/mohamedKahled1/blob/main/assets/powerbi-dashboard.png"/>
+
+</div>
+
+<br>
+
+<table align="center">
 <tr>
-<td align="center" width="33%">
 
-📈  
-<b>Business Intelligence</b>
+<td width="50%">
 
-<br>
-Building interactive dashboards  
-and transforming data into insights
+### 📈 Sales Analytics Dashboard
 
-</td>
-
-<td align="center" width="33%">
-
-🗄️  
-<b>Data Analysis</b>
-
-<br>
-Cleaning, analyzing and exploring  
-data using SQL & Python
+- Power BI Dashboard
+- Sales & Revenue Analysis
+- KPI Tracking
+- Customer Insights
+- Interactive Reports
 
 </td>
 
-<td align="center" width="33%">
+<td width="50%">
 
-⚡  
-<b>Reporting & Visualization</b>
+### 🛠 Data Tools
 
-<br>
-Creating KPI reports using  
-Power BI & DAX
+- SQL Server
+- Power BI
+- DAX
+- Power Query
+- Excel
+- Python
 
 </td>
 
 </tr>
 </table>
-
-</div>
 
 <br>
 
