@@ -102,60 +102,100 @@ I enjoy solving real-world business problems using data analysis and visualizati
 
 ---
 <!-- ========================================================= -->
-<!--              📊 PHASE 4 : ANALYTICS SHOWCASE             -->
+<!--              🚀 PHASE 4 : FEATURED PROJECTS              -->
 <!-- ========================================================= -->
 
 <h2 align="center">
-📊 Analytics Showcase
+🚀 Featured Data Analytics Projects
 </h2>
 
 <p align="center">
-  Exploring data, building dashboards, and transforming insights into decisions
+Real-world projects where I transform raw data into actionable insights
 </p>
+
 
 <div align="center">
 
-<img width="90%" src="https://github.com/mohamedKahled1/mohamedKahled1/blob/main/assets/powerbi-dashboard.png"/>
 
-</div>
+<table>
 
-<br>
-
-<table align="center">
 <tr>
 
 <td width="50%">
 
-### 📈 Sales Analytics Dashboard
+<h3>📊 Sales Performance Dashboard</h3>
 
-- Power BI Dashboard
-- Sales & Revenue Analysis
-- KPI Tracking
-- Customer Insights
-- Interactive Reports
+<p>
+<b>Power BI | SQL | DAX</b>
+</p>
+
+<ul>
+<li>Built interactive dashboard for sales analysis</li>
+<li>Tracked revenue, profit and KPIs</li>
+<li>Created data model using star schema</li>
+<li>Delivered business insights through visualization</li>
+</ul>
 
 </td>
 
+
 <td width="50%">
 
-### 🛠 Data Tools
+<h3>🛒 Retail Analytics Project</h3>
 
-- SQL Server
-- Power BI
-- DAX
-- Power Query
-- Excel
-- Python
+<p>
+<b>SQL | Power BI | Excel</b>
+</p>
+
+<ul>
+<li>Analyzed customer purchasing behavior</li>
+<li>Performed product performance analysis</li>
+<li>Created business reports</li>
+<li>Improved decision-making using data</li>
+</ul>
 
 </td>
 
 </tr>
+
+
+<tr>
+
+<td width="50%">
+
+<h3>👥 Customer Analysis Dashboard</h3>
+
+<p>
+<b>Power BI | DAX</b>
+</p>
+
+<ul>
+<li>Customer segmentation analysis</li>
+<li>Sales trends exploration</li>
+<li>KPI monitoring dashboard</li>
+</ul>
+
+</td>
+
+
+<td width="50%">
+
+<h3>💰 Expense Analysis Dashboard</h3>
+
+<p>
+<b>Power BI | Data Modeling</b>
+</p>
+
+<ul>
+<li>Monthly expense tracking</li>
+<li>Category analysis</li>
+<li>Cost optimization insights</li>
+</ul>
+
+</td>
+
+</tr>
+
 </table>
-
-<br>
-
-<img
-src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedKahled1&theme=transparent&hide_border=true"
-/>
 
 </div>
