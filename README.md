@@ -99,3 +99,32 @@ My goal is to continuously improve my analytical skills while delivering impactf
 </div>
 
 ---
+<!-- ===================================================== -->
+<!--          📈 PHASE 4 : GITHUB ANALYTICS               -->
+<!-- ===================================================== -->
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohamedKahled1&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedKahled1&theme=transparent&hide_border=true"/>
+
+<br><br>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedKahled1&layout=compact&theme=transparent&hide_border=true"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamedKahled1&theme=github"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedKahled1&theme=github-compact&hide_border=true"/>
+
+</div>
+
+---
