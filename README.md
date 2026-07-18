@@ -1,130 +1,121 @@
-<!-- ===================================================== -->
-<!--                🚀 PHASE 1 : HERO SECTION              -->
-<!-- ===================================================== -->
-
 <div align="center">
 
-<h1>Hi 👋, I'm Mohamed Khaled</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=32&duration=3000&pause=1000&color=F7931E&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohamed+Khaled;Data+Analyst+%7C+BI+Developer;Turning+Raw+Data+Into+Business+Decisions;Power+BI+%7C+SQL+%7C+DAX+%7C+Power+Query" alt="Typing SVG" />
 
-<h3>Data Analyst | Business Intelligence Developer</h3>
+### 📊 Data Analyst | Business Intelligence Developer | Power BI Enthusiast
+**Turning raw data into actionable insights through dashboards, analytics, and business intelligence.**
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Power+BI;SQL;Excel;Python;Transforming+Data+Into+Business+Insights"/>
+📍 Giza, Egypt &nbsp;|&nbsp; 📧 mohamedmohmoh1245@gmail.com &nbsp;|&nbsp; 📱 +20 106 549 8842
 
-<br><br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=flat&logo=github&logoColor=white)](https://github.com/mohamedKahled1)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mohamedmohmoh1245@gmail.com)
 
-<a href="https://github.com/mohamedKahled1">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/mohamed-kahled-913068358/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:mohamedmohmoh1245@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=mohamedKahled1&label=PROFILE%20VIEWS&style=for-the-badge&color=3B82F6"/>
+![Profile Views](https://komarev.com/ghpvc/?username=mohamedKahled1&style=flat&color=orange&label=PROFILE+VIEWS)
 
 </div>
 
----
-<!-- ===================================================== -->
-<!--          💼 PHASE 2 : PROFESSIONAL PROFILE            -->
-<!-- ===================================================== -->
+<hr>
 
-## 💼 Professional Profile
+## 🧠 About Me
 
-I'm **Mohamed Khaled**, a passionate **Data Analyst** who enjoys transforming raw data into meaningful insights that support smarter business decisions.
+- 🎓 Business Information Systems Graduate (Class of 2026), specialized in **Data Analytics & BI**
+- 📈 Building end-to-end **Business Intelligence pipelines** — from raw SQL data to executive dashboards
+- 🛠️ Skilled in transforming enterprise datasets into optimized **Star Schema** models
+- 🧮 Experienced in **ERP systems, data auditing, and inventory management** workflows
+- 🚀 Currently sharpening: **Advanced SQL, Advanced DAX, Power BI Optimization, Python for Analytics, Data Warehousing**
+- 🎯 Goal: Become a **Business Intelligence Developer**, delivering measurable business impact through data
 
-I have hands-on experience in analyzing data, building interactive dashboards, and creating reports that help stakeholders understand business performance clearly.
+<hr>
 
-My goal is to continuously improve my analytical skills while delivering impactful, data-driven solutions.
+## 🧰 Tech Stack
 
-### 🎯 What I Focus On
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=poweredbydax&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power_Query-3178C6?style=for-the-badge&logo=powerquery&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-- 📊 Building Interactive Dashboards
-- 📈 Business Intelligence & Reporting
-- 🗄️ SQL Data Analysis
-- 📋 KPI Monitoring
-- 📉 Data Visualization
-- 📑 Business Reporting
+```python
+class DataAnalyst:
+    def __init__(self):
+        self.name = "Mohamed Khaled"
+        self.role = "Data Analyst | BI Developer"
+        self.tools = {
+            "BI & Visualization": ["Power BI", "DAX", "Power Query", "Data Storytelling"],
+            "Databases": ["SQL Server", "Joins", "CTEs", "Window Functions"],
+            "Spreadsheets": ["Advanced Excel", "Power Pivot", "XLOOKUP", "Dynamic Arrays"],
+            "Programming": ["Python", "Pandas", "NumPy"],
+            "Modeling": ["Star Schema", "ETL", "KPI Dashboard Development"],
+        }
+        self.mission = "Turn messy data into decisions people can act on."
 
----
-<!-- ===================================================== -->
-<!--          🛠 PHASE 3 : SKILLS & TECHNOLOGIES           -->
-<!-- ===================================================== -->
+    def current_focus(self):
+        return ["Advanced SQL", "Advanced DAX", "Data Warehousing", "Power BI Optimization"]
+```
 
-## 🛠 Skills & Technologies
+<hr>
+
+## 📌 Featured Projects
+
+### 🏢 [Enterprise Sales Performance & Dynamic Target Analytics](https://github.com/mohamedKahled1/Enterprise-Sales-BI-Dashboard)
+**Tools:** Power BI · SQL · DAX · Power Query · Star Schema Data Modeling
+- Engineered an end-to-end Enterprise BI pipeline simulating relational SQL frameworks across **7 dimensional tables**
+- Built a 7-page executive dashboard with dynamic navigation for KPIs, Sales Overview, Region vs. Target & Salesforce Efficiency
+- Audited **1.38B EGP** in YTD Net Revenue, tracking **23.1% YoY growth** with advanced Time-Intelligence DAX
+- Validated **137,380 orders** and **27,176 customers**, evaluating a **145% target fulfillment rate**
+
+### 🛍️ [2B Egypt Retail & Returns Analytics (Enterprise BI)](https://github.com/mohamedKahled1/2b-egypt-retail-analytics)
+**Tools:** SQL · Excel · Power BI · Power Query · DAX
+- Extracted & transformed **200K+ records** via complex SQL (Joins, Coalesce, Views) across 7 core dimensions
+- Built a high-performance Star Schema model enabling dynamic cross-filtering & sub-second load times
+- Audited **7.52B EGP** in Total Revenue and **564.77M EGP** in Total Profit against corporate targets
+- Delivered a deep-dive returns analysis (Defective vs. Changed Mind) across **12K returned units**
+
+### 🧸 [Maven Toys Sales Analysis](https://github.com/mohamedKahled1/maven-toys-sales-analysis)
+**Tools:** Power BI · Power Query · DAX · Advanced Excel
+- Conducted end-to-end sales performance & EDA on a multi-sheet relational dataset
+- Built a scalable Power BI data model with full ETL transformation and schema optimization
+- Tracked **$14.44M revenue**, **829K orders**, and **$4.01M profit** through an interactive dashboard
+- Identified top-performing products, categories, and monthly sales trends to guide business decisions
+
+<hr>
+
+## 💼 Experience Highlights
+
+- **Production & Inventory System Controller** — SODIC ERP · Lotus, Cairo *(Jan 2026 – Mar 2026)*  
+  Administered production & inventory modules; maintained 100% accuracy between physical stock and system records
+- **Inventory Controller** — Lotus, Cairo *(Oct 2025 – Jan 2026)*  
+  Tracked production output and reconciled it with distribution records across two production lines
+- **Event Operations Assistant** — Beehive Events, Cairo *(Mar 2025 – Aug 2025)*  
+  Coordinated logistics and guest management for large-scale events
+
+<hr>
+
+## 🎓 Education & Certifications
+
+- 🎓 **Bachelor of Business Information Systems (BIS)** — Management Information Systems Institute (CIS), *Graduation: June 2026*
+- 📜 Leadership & Employability Bootcamp — MindShift (2025)
+- 📜 Leadership Simulation Training (Winning Team) — MindShift (2025)
+- 📜 Artificial Intelligence (AI) Tools Training (2025)
+- 📜 ACDA Annual Conference Participant (2025)
+
+<hr>
 
 <div align="center">
 
-### 📊 Business Intelligence
+### 📈 GitHub Stats
 
-<p>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge"/>
-</p>
-
-### 🗄 Database
-
-<p>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
-
-### 🐍 Programming
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B"/>
-</p>
-
-### 📈 Data Analysis
-
-<p>
-<img src="https://img.shields.io/badge/Data%20Analysis-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Visualization-0EA5E9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/KPI%20Dashboards-14B8A6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Business%20Intelligence-7C3AED?style=for-the-badge"/>
-</p>
-
-### 📑 Productivity
-
-<p>
-<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-</p>
-
-</div>
-
----
-<!-- ===================================================== -->
-<!--          📈 PHASE 4 : GITHUB ANALYTICS               -->
-<!-- ===================================================== -->
-
-## 📈 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohamedKahled1&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedKahled1&theme=transparent&hide_border=true"/>
-
-<br><br>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedKahled1&layout=compact&theme=transparent&hide_border=true"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamedKahled1&theme=github"/>
-
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=mohamedKahled1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedKahled1&theme=tokyonight&hide_border=true" width="48%" />
 
 <br>
 
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedKahled1&theme=github-compact&hide_border=true"/>
+**💬 Let's talk data** — always open to Data Analyst / BI Analyst opportunities and collaborations.
 
 </div>
-
----
