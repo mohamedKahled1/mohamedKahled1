@@ -31,3 +31,73 @@
 </div>
 
 ---
+<!-- ========================================================= -->
+<!--                  💼 PHASE 2 : ABOUT ME                    -->
+<!-- ========================================================= -->
+
+# 💼 About Me
+
+<img align="right" width="320" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW92MXI5ODQ1YW92MHVhdXNvMWE5N3Y0MjlkYmxjbjU0dWQ5NW9ucSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+I'm **Mohamed Khaled**, a **Data Analyst** passionate about transforming raw data into meaningful business insights.
+
+I specialize in analyzing data, building interactive dashboards, and creating reports that help businesses make better decisions.
+
+I enjoy solving real-world business problems using data analysis and visualization.
+
+### 🎯 Current Focus
+
+- 📊 Interactive Dashboards
+- 📈 Business Intelligence
+- 🗄 SQL Data Analysis
+- 📉 Data Visualization
+- 📋 KPI Reporting
+
+<br clear="right"/>
+
+---
+<!-- ========================================================= -->
+<!--             🛠 PHASE 3 : SKILLS & TECHNOLOGIES            -->
+<!-- ========================================================= -->
+
+# 🛠 Skills & Technologies
+
+<div align="center">
+
+### 📊 Business Intelligence
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoft&logoColor=white"/>
+
+<br><br>
+
+### 🗄 Database
+
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+
+<br><br>
+
+### 📈 Data Analysis
+
+<img src="https://img.shields.io/badge/Data_Analysis-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data_Visualization-0EA5E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Business_Intelligence-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/KPI_Dashboards-14B8A6?style=for-the-badge"/>
+
+<br><br>
+
+### 🐍 Programming
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B"/>
+
+<br><br>
+
+### 📑 Productivity
+
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+
+</div>
+
+---
