@@ -31,3 +31,71 @@
 </div>
 
 ---
+<!-- ===================================================== -->
+<!--          💼 PHASE 2 : PROFESSIONAL PROFILE            -->
+<!-- ===================================================== -->
+
+## 💼 Professional Profile
+
+I'm **Mohamed Khaled**, a passionate **Data Analyst** who enjoys transforming raw data into meaningful insights that support smarter business decisions.
+
+I have hands-on experience in analyzing data, building interactive dashboards, and creating reports that help stakeholders understand business performance clearly.
+
+My goal is to continuously improve my analytical skills while delivering impactful, data-driven solutions.
+
+### 🎯 What I Focus On
+
+- 📊 Building Interactive Dashboards
+- 📈 Business Intelligence & Reporting
+- 🗄️ SQL Data Analysis
+- 📋 KPI Monitoring
+- 📉 Data Visualization
+- 📑 Business Reporting
+
+---
+<!-- ===================================================== -->
+<!--          🛠 PHASE 3 : SKILLS & TECHNOLOGIES           -->
+<!-- ===================================================== -->
+
+## 🛠 Skills & Technologies
+
+<div align="center">
+
+### 📊 Business Intelligence
+
+<p>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge"/>
+</p>
+
+### 🗄 Database
+
+<p>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+### 🐍 Programming
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B"/>
+</p>
+
+### 📈 Data Analysis
+
+<p>
+<img src="https://img.shields.io/badge/Data%20Analysis-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Visualization-0EA5E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/KPI%20Dashboards-14B8A6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Business%20Intelligence-7C3AED?style=for-the-badge"/>
+</p>
+
+### 📑 Productivity
+
+<p>
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+</p>
+
+</div>
+
+---
