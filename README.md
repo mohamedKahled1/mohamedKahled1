@@ -38,6 +38,7 @@
 
 🐍 I use Python for data cleaning and analysis.
 
+
 📈 I enjoy solving business problems through data.
 
 💡 My goal is to become a professional Business Intelligence Developer.
