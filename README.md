@@ -1,31 +1,23 @@
-
 <div align="center">
 
-<img src="assets/hello-data.gif" width="70%">
-
-<br><br>
-
-<img src="assets/workspace.gif" width="45%">
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=750&lines=Data+Analyst;Business+Intelligence+Developer;Power+BI+Developer;SQL+%7C+Python+%7C+Excel;Turning+Data+Into+Insights"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:60A5FA,25:93C5FD,50:BFDBFE,75:DBEAFE,100:F8FAFC&text=Mohamed%20Khaled&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Data%20Analyst%20%7C%20Business%20Intelligence%20Developer&descAlignY=62"/>
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=USERNAME&style=flat-square&color=3B82F6&label=PROFILE+VIEWS)
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1200&color=2563EB&center=true&vCenter=true&width=750&lines=Power+BI+Developer;SQL+Developer;Python+for+Data+Analysis;Excel+Automation;Business+Intelligence;Always+Learning+New+Things"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=(https://github.com/mohamedKahled1)&style=for-the-badge&color=3B82F6&label=PROFILE+VIEWS"/>
+
+<img src="https://img.shields.io/github/followers/(https://github.com/mohamedKahled1)?logo=github&style=for-the-badge&color=3B82F6"/>
+
+<img src="https://img.shields.io/github/stars/(https://github.com/mohamedKahled1)?affiliations=OWNER&style=for-the-badge&color=FACC15"/>
 
 </div>
 
 ---
 
-# 👋 About Me
+# 👋 Welcome
 
-I'm Mohamed Khaled, a passionate **Data Analyst** focused on transforming raw data into actionable business insights.
-
-- 📊 Power BI Dashboard Developer
-- 🗄 SQL Analyst
-- 🐍 Python for Data Analysis
-- 📈 Excel Automation
-- 📚 Currently learning Advanced SQL & DAX
-- 🚀 Future Business Intelligence Engineer
+> **Transforming raw data into meaningful business insights through analytics, dashboards, and automation.**
