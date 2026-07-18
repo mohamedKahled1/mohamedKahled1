@@ -24,3 +24,8 @@ I enjoy building professional dashboards, solving business problems using data, 
 - 🎯 Future Business Intelligence Engineer
 
 ---
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DBEAFE,25:BFDBFE,50:93C5FD,75:60A5FA,100:3B82F6&height=230&section=header&text=Mohamed%20Khaled&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20|%20Business%20Intelligence%20Developer&descAlignY=60"/>
+
+</div>
