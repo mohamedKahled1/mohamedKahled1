@@ -101,3 +101,22 @@ I enjoy solving real-world business problems using data analysis and visualizati
 </div>
 
 ---
+<!-- ========================================================= -->
+<!--              📈 PHASE 4 : GITHUB ANALYTICS               -->
+<!-- ========================================================= -->
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mohamedKahled1&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedKahled1&layout=compact&theme=transparent&hide_border=true"/>
+
+<br><br>
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedKahled1&theme=github-compact&hide_border=true"/>
+
+</div>
+
+---
