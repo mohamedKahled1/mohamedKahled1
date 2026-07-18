@@ -29,3 +29,13 @@ I enjoy building professional dashboards, solving business problems using data, 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DBEAFE,25:BFDBFE,50:93C5FD,75:60A5FA,100:3B82F6&height=230&section=header&text=Mohamed%20Khaled&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20|%20Business%20Intelligence%20Developer&descAlignY=60"/>
 
 </div>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20Views&color=3B82F6&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/USERNAME?logo=github&style=for-the-badge&color=3B82F6"/>
+
+<img src="https://img.shields.io/github/stars/USERNAME?affiliations=OWNER&style=for-the-badge&color=3B82F6"/>
+
+</p>
