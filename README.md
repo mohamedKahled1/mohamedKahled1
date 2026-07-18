@@ -102,35 +102,54 @@ I enjoy solving real-world business problems using data analysis and visualizati
 
 ---
 <!-- ========================================================= -->
-<!--              📈 PHASE 4 : GITHUB ANALYTICS               -->
+<!--              📊 PHASE 4 : DATA ANALYTICS PROFILE          -->
 <!-- ========================================================= -->
 
 <h2 align="center">
-📈 GitHub Analytics
+📊 Data Analytics Profile
 </h2>
-
-<p align="center">
-  <i>Tracking my coding activity, projects and continuous learning journey</i>
-</p>
 
 <div align="center">
 
-<img 
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=mohamedKahled1&show_icons=true&count_private=true&hide_border=true&theme=transparent&rank_icon=github"
-/>
+<table>
+<tr>
+<td align="center" width="33%">
 
-<img 
-height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedKahled1&layout=compact&hide_border=true&theme=transparent"
-/>
+📈  
+<b>Business Intelligence</b>
 
-<br><br>
+<br>
+Building interactive dashboards  
+and transforming data into insights
 
-<img 
-width="90%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedKahled1&bg_color=ffffff&color=0ea5e9&line=22c55e&point=0ea5e9&area=true&hide_border=true"
-/>
+</td>
+
+<td align="center" width="33%">
+
+🗄️  
+<b>Data Analysis</b>
+
+<br>
+Cleaning, analyzing and exploring  
+data using SQL & Python
+
+</td>
+
+<td align="center" width="33%">
+
+⚡  
+<b>Reporting & Visualization</b>
+
+<br>
+Creating KPI reports using  
+Power BI & DAX
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 <br>
 
