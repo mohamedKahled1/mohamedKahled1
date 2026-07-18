@@ -105,18 +105,37 @@ I enjoy solving real-world business problems using data analysis and visualizati
 <!--              📈 PHASE 4 : GITHUB ANALYTICS               -->
 <!-- ========================================================= -->
 
-# 📈 GitHub Analytics
+<h2 align="center">
+📈 GitHub Analytics
+</h2>
+
+<p align="center">
+  <i>Tracking my coding activity, projects and continuous learning journey</i>
+</p>
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mohamedKahled1&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+<img 
+height="170"
+src="https://github-readme-stats.vercel.app/api?username=mohamedKahled1&show_icons=true&count_private=true&hide_border=true&theme=transparent&rank_icon=github"
+/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedKahled1&layout=compact&theme=transparent&hide_border=true"/>
+<img 
+height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedKahled1&layout=compact&hide_border=true&theme=transparent"
+/>
 
 <br><br>
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedKahled1&theme=github-compact&hide_border=true"/>
+<img 
+width="90%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedKahled1&bg_color=ffffff&color=0ea5e9&line=22c55e&point=0ea5e9&area=true&hide_border=true"
+/>
+
+<br>
+
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedKahled1&theme=transparent&hide_border=true"
+/>
 
 </div>
-
----
